@@ -1,5 +1,5 @@
 # Mandelbrot set for 65816 processor (SNES)
-Andreas Zahnleiter <a.zahnleiter@gmx.d>
+Andreas Zahnleiter \<a.zahnleiter@gmx.de\>
 
 ## Description
 
